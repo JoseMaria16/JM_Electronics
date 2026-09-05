@@ -1,0 +1,6 @@
+{
+  "name": "JJ Tech Lab - Electrónica & Tecnología",
+  "description": "Sitio web profesional y marca personal de electrónica, microcontroladores Arduino y ESP32, diseño de PCBs, IoT y programación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
